@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee795f46-a8cd-4031-abed-a9a7543e53bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Appointment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/AnalogCompass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/EmployeeImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/FlightAttendant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Language.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Pilot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/PilotStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/AirlineManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/service/AirlineManagementTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/AirlineManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/AirlineManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +43,12 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -118,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695192292200</updated>
-      <workItem from="1695192293504" duration="6676000" />
+      <workItem from="1695192293504" duration="6817000" />
     </task>
     <servers />
   </component>

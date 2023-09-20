@@ -41,7 +41,7 @@ public class AirlineManagement {
 
         boolean allAttandantsSpeakLanguage = flightAttandantList.stream().allMatch(flightAttendant -> flightAttendant.language().equals(flight.language()));
         if (!allAttandantsSpeakLanguage) {
-            System.out.println("Not all FlightAttandants speak language");
+            System.out.println("Not all FlightAttendants speak language");
             return false;
         }
 
